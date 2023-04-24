@@ -21,15 +21,13 @@ They may eventually move to the wishlist or become part of packages in use.
   * [js2-mode](https://github.com/mooz/js2-mode/)
   * [Tide](https://github.com/ananthakumaran/tide)
   * [json-mode](https://github.com/joshwnj/json-mode)
-
-**Pending**
-  * ruby support
+  * [neo-tree](https://github.com/jaypei/emacs-neotree)
+  * [ruby-mode](https://www.emacswiki.org/emacs/RubyMode)
 
 ### Wishlist
   
   * [dashboard](https://github.com/emacs-dashboard/emacs-dashboard)
   * [org-mode](https://orgmode.org/)
-  * [neo-tree](https://github.com/jaypei/emacs-neotree)
   * [git-timemachine](https://github.com/emacsmirror/git-timemachine)
   * [Ivy](https://github.com/abo-abo/swiper)
   * [avy](https://github.com/abo-abo/avy)
