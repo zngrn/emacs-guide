@@ -34,9 +34,9 @@ A quick breakdown for abbreviations:
 | **Edit**                  |  ####      |
 | undo                      | C-_        |
 | redo                      | C-x        |
-| cut                       |
-| copy                      |
-| paste                     |
+| kill (cut)                | C-w        | 
+| copy                      | M-w        |
+| yank (paste)              | C-y        |
 | find                      |
 | find all                  |
 | replace                   |

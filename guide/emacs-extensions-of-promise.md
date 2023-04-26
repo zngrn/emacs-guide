@@ -27,6 +27,7 @@ They may eventually move to the wishlist or become part of packages in use.
 ### Wishlist
   
   * [dashboard](https://github.com/emacs-dashboard/emacs-dashboard)
+  * [helm](https://github.com/emacs-helm/helm)
   * [org-mode](https://orgmode.org/)
   * [git-timemachine](https://github.com/emacsmirror/git-timemachine)
   * [Ivy](https://github.com/abo-abo/swiper)
@@ -34,11 +35,11 @@ They may eventually move to the wishlist or become part of packages in use.
   * [paredit](https://paredit.org/)
   * [lsp-mode](https://emacs-lsp.github.io/lsp-mode/)
   * [emacs-xkcd](https://github.com/vibhavp/emacs-xkcd)
+  * [rbenv.el](https://github.com/senny/rbenv.el)
 
 
 ### Maybe
 
-  * [helm](https://github.com/emacs-helm/helm)
   * [sunshine](https://github.com/aaronbieber/sunshine.el)
   * [winner mode](https://www.emacswiki.org/emacs/WinnerMode)
   * [Wind Move](https://www.emacswiki.org/emacs/WindMove)
@@ -53,3 +54,4 @@ They may eventually move to the wishlist or become part of packages in use.
 ### Reference for curated packages
   
   * [awesome emacs](https://github.com/emacs-tw/awesome-emacs)
+
