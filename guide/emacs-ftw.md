@@ -26,9 +26,6 @@ A quick breakdown for abbreviations:
 | **File**                  |  ####      |
 | new                       | C-x C-n    |
 | open                      | C-x C-f    |
-| open recent               |            
-| close window              |             
-| close all                 |               
 | save                      | C-x C-s    |           
 | save as                   | C-x C-w    |            
 | **Edit**                  |  ####      |
@@ -37,19 +34,22 @@ A quick breakdown for abbreviations:
 | kill (cut)                | C-w        | 
 | copy                      | M-w        |
 | yank (paste)              | C-y        |
-| find                      |
-| find all                  |
-| replace                   |
-| replace all               |
+| kill region reverse order | M-Y        |
+| find                      | C-s `|` C-r|
+| find all                  | M-x occur  |
+| find & replace            | M-%        |
+| replace all               | !          |
+| wrap text                 | M-q        |
 | **Selection**             |  ####      |
-| select                    |
-| select all                |
+| search forward            | C-s        |
+| search reverse            | C-r        |
+| mark region (select area) | C-space    |
 | **Go**                    |  ####      |
 | to file                   |
 | to definition             |
 | to declaration            |
 | to implementation         |
-| to references             | 
+| to references             |
 | to line                   |
 | **Run**                   |  ####      |
 | add breakpoint            |
@@ -63,6 +63,12 @@ A quick breakdown for abbreviations:
 | split window vertically   | C-x 2      |
 | split window horizontally | C-x 3      |
 | switch windows            | C-x o      |
+| ** Point Movement**       |  ####      |
+| up a para                 | C-up       |
+| down a para               | C-down     |
+| next word                 | C-left/rght|
+| beginning of line         | home       |
+| end of line               | end        |
 | **Code**                  |  ####      |
 | rename symbol             |
 | refactor                  |
@@ -70,6 +76,17 @@ A quick breakdown for abbreviations:
 | **emacs specific**        |  ####      |
 
 
+### Additional Notes
+
+  * Kill Ring - emacs by default allows to use a clipboard to store all regions copied.
+  When yanking, you can select from this collection of clipboard.
+
+  * To search and cycle through results, keep pressing `C-s | C-r`. Akin to terminal usage.
+
+  * Replace all instance works as: M-% `ret` <replacement text> `ret` followed by `!` to replace all.
+  To skip an instance you can press `n` instead.
+
 ### Thoughts
 
-*Note:* This key bindings listed above will grow over time. 
+*Note:* This key bindings listed above will grow over time.
+

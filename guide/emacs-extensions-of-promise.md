@@ -24,11 +24,16 @@ They may eventually move to the wishlist or become part of packages in use.
   * [neo-tree](https://github.com/jaypei/emacs-neotree)
   * [ruby-mode](https://www.emacswiki.org/emacs/RubyMode)
 
-### Wishlist
-  
-  * [dashboard](https://github.com/emacs-dashboard/emacs-dashboard)
+### Part II (upcoming changes)
+
   * [helm](https://github.com/emacs-helm/helm)
+  * [markdown-mode](https://github.com/jrblevin/markdown-mode)
+  * [yaml-mode](https://github.com/yoshiki/yaml-mode)
+  * [dashboard](https://github.com/emacs-dashboard/emacs-dashboard)
   * [org-mode](https://orgmode.org/)
+
+### Wishlist
+
   * [git-timemachine](https://github.com/emacsmirror/git-timemachine)
   * [Ivy](https://github.com/abo-abo/swiper)
   * [avy](https://github.com/abo-abo/avy)
@@ -41,7 +46,7 @@ They may eventually move to the wishlist or become part of packages in use.
 ### Maybe
 
   * [sunshine](https://github.com/aaronbieber/sunshine.el)
-  * [winner mode](https://www.emacswiki.org/emacs/WinnerMode)
+  * [winner-mode](https://www.emacswiki.org/emacs/WinnerMode)
   * [Wind Move](https://www.emacswiki.org/emacs/WindMove)
   * [goto-line-preview](https://github.com/emacs-vs/goto-line-preview)
   * [all-the-icons](https://github.com/domtronn/all-the-icons.el)
