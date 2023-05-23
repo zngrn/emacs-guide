@@ -18,6 +18,7 @@ They may eventually move to the wishlist or become part of packages in use.
   * [elpy](https://github.com/jorgenschaefer/elpy)
   * [clojure mode](https://github.com/clojure-emacs/clojure-mode)
   * [cider](https://github.com/clojure-emacs/cider)
+  * [paredit](https://paredit.org/)
   * [js2-mode](https://github.com/mooz/js2-mode/)
   * [Tide](https://github.com/ananthakumaran/tide)
   * [json-mode](https://github.com/joshwnj/json-mode)
@@ -27,29 +28,27 @@ They may eventually move to the wishlist or become part of packages in use.
 ### Part II (upcoming changes)
 
   * [helm](https://github.com/emacs-helm/helm)
+  * [Ivy](https://github.com/abo-abo/swiper)
   * [markdown-mode](https://github.com/jrblevin/markdown-mode)
   * [yaml-mode](https://github.com/yoshiki/yaml-mode)
   * [dashboard](https://github.com/emacs-dashboard/emacs-dashboard)
   * [org-mode](https://orgmode.org/)
+  * [git-timemachine](https://github.com/emacsmirror/git-timemachine)
+  * [avy](https://github.com/abo-abo/avy)
+  * [lsp-mode](https://emacs-lsp.github.io/lsp-mode/)
+  * [rbenv.el](https://github.com/senny/rbenv.el)
 
 ### Wishlist
 
-  * [git-timemachine](https://github.com/emacsmirror/git-timemachine)
-  * [Ivy](https://github.com/abo-abo/swiper)
-  * [avy](https://github.com/abo-abo/avy)
-  * [paredit](https://paredit.org/)
-  * [lsp-mode](https://emacs-lsp.github.io/lsp-mode/)
   * [emacs-xkcd](https://github.com/vibhavp/emacs-xkcd)
-  * [rbenv.el](https://github.com/senny/rbenv.el)
-
+  * [goto-line-preview](https://github.com/emacs-vs/goto-line-preview)
+  * [all-the-icons](https://github.com/domtronn/all-the-icons.el)
 
 ### Maybe
 
   * [sunshine](https://github.com/aaronbieber/sunshine.el)
   * [winner-mode](https://www.emacswiki.org/emacs/WinnerMode)
   * [Wind Move](https://www.emacswiki.org/emacs/WindMove)
-  * [goto-line-preview](https://github.com/emacs-vs/goto-line-preview)
-  * [all-the-icons](https://github.com/domtronn/all-the-icons.el)
   * [osx-trash](https://github.com/emacsorphanage/osx-trash/)
   * [nyan-mode](https://github.com/TeMPOraL/nyan-mode)
   * [rainbow-delimiters](https://github.com/Fanael/rainbow-delimiters)
