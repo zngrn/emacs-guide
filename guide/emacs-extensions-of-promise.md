@@ -1,5 +1,7 @@
 # emacs Extensions of Promise
 
+**NOTE:** This is no longer actively indexed.
+
 Leveraging packages to improve and customize the emacs experience is well known.
 In the interest of using certain packages incrementally, I'll document these in parts.
 
@@ -25,7 +27,7 @@ They may eventually move to the wishlist or become part of packages in use.
   * [neo-tree](https://github.com/jaypei/emacs-neotree)
   * [ruby-mode](https://www.emacswiki.org/emacs/RubyMode)
 
-### Part II (upcoming changes)
+### Part II
 
   * [helm](https://github.com/emacs-helm/helm)
   * [Ivy](https://github.com/abo-abo/swiper)
